@@ -47,5 +47,5 @@ func NewSubPub() SubPub {
 ## Использование
 
 ```shell
-go get github.com/blvxme/subpub
+go get github.com/blvxme/subpub@v1.3.0
 ```
